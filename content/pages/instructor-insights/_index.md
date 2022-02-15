@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 60b2c196-be77-e326-a65c-ead778a4815e
 ---
@@ -50,28 +52,6 @@ H-Level graduate credit ![](/images/educator/icon-question-hlevel.png)
 ### Offered
 
 Every other fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tiered lecture hall with chalkboards and projector at the front of the room and grouped seating for students.]({{< resource_file 607b7eb1-adeb-f5f0-6be6-4bec5e43175d >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Class Session
-    
-    The professor used both the chalkboards and presentation slides, containing images and videos, for teaching during class sessions.
-    
-*   ![Classroom with sliding chalkboards and separate tablet armchairs.]({{< resource_file 3293a1af-5492-f48f-40f0-cfc1cc345203 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Open-Problem Session (Optional)
-    
-    Students worked together to brainstorm and hopefully solve open problems relevant to the content covered in the respective week’s class session.
-    
 
 {{< anchor "grading" >}}{{< /anchor >}}
 

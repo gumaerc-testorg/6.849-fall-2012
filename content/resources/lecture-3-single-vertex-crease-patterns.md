@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class and Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Single-Vertex Crease Patterns'
 uid: 1603733c-609c-7903-3c20-88b144d09d73
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/756d6c1b673550b28764c9c160f964ae_5lO7gBJEzH4.vtt
+  video_captions_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/756d6c1b673550b28764c9c160f964ae_5lO7gBJEzH4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5lO7gBJEzH4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/dde4ebb0041ae0e5171af4cdcbab2f66_5lO7gBJEzH4.pdf
+  video_transcript_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/dde4ebb0041ae0e5171af4cdcbab2f66_5lO7gBJEzH4.pdf
 video_metadata:
   youtube_id: 5lO7gBJEzH4
 ---

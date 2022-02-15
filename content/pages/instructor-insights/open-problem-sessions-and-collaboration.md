@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 60b2c196-be77-e326-a65c-ead778a4815e
 title: Open-Problem Sessions and Collaboration
 uid: c03eec62-c472-53f8-d010-100a83b91515

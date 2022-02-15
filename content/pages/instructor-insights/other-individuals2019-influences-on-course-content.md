@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 60b2c196-be77-e326-a65c-ead778a4815e
 title: "Other Individuals\u2019 Influences on Course Content"
 uid: bb556ca9-16bd-4a4b-a9d2-0444d3664e04

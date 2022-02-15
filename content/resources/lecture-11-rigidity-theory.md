@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class and Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Rigidity Theory'
 uid: 34f3ccaf-b01d-cd7b-542e-fb76fe5fe07b
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/8da21b9c6ae55966b5005c73d5e4596c_k2jKCJ8fhj0.vtt
+  video_captions_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/8da21b9c6ae55966b5005c73d5e4596c_k2jKCJ8fhj0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/k2jKCJ8fhj0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/a39bd2f7b1b3e9abedfdbb3814741106_k2jKCJ8fhj0.pdf
+  video_transcript_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/a39bd2f7b1b3e9abedfdbb3814741106_k2jKCJ8fhj0.pdf
 video_metadata:
   youtube_id: k2jKCJ8fhj0
 ---

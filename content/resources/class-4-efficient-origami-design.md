@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class and Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 4: Efficient Origami Design'
 uid: 1638c80a-3623-d792-a227-b2dc7c8275ba
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_class04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/08b66ae3b2f45406afb4cd6e0882212d_ylQ5-9f5KIs.vtt
+  video_captions_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/08b66ae3b2f45406afb4cd6e0882212d_ylQ5-9f5KIs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ylQ5-9f5KIs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/b67bcae394e440e6691812c6c9c6423d_ylQ5-9f5KIs.pdf
+  video_transcript_file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/b67bcae394e440e6691812c6c9c6423d_ylQ5-9f5KIs.pdf
 video_metadata:
   youtube_id: ylQ5-9f5KIs
 ---

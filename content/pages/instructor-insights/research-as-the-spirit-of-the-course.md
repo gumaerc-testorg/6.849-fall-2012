@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 60b2c196-be77-e326-a65c-ead778a4815e
 title: Research as the Spirit of the Course
 uid: 14e1df4a-fe41-6e1e-a39f-7bb48a5958bf

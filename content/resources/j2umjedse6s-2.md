@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/781029e45f8851ec9a75aa25b42cfc4b_J2uMjEDsE6s.vtt
+file: /media/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/781029e45f8851ec9a75aa25b42cfc4b_J2uMjEDsE6s.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 781029e4-5f88-51ec-9a75-aa25b42cfc4b

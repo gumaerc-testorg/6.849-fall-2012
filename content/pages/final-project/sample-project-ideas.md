@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Final Project
+parent_type: CourseSection
 parent_uid: 09ded0d2-dbc8-da15-f5d3-605f216c0866
 title: Sample Project Ideas
 uid: 8fbd5c92-898c-687f-adc5-2d2f99f1ee80
