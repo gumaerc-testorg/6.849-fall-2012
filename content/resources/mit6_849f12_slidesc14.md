@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Class 14 Slides: Hinged Dissections, 6.849 Fall 2012'
 uid: b062a325-2f75-69d7-e3a0-fc3759254384

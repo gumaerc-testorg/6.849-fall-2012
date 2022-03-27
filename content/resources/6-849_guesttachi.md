@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "Other Individuals\u2019 Influences on Course Content"
 parent_type: CourseSection
+parent_uid: bb556ca9-16bd-4a4b-a9d2-0444d3664e04
 resourcetype: Image
 title: 6-849_guestTachi.jpg
 uid: d8eb83d7-8c26-632a-0a35-67d3e84ea6e7

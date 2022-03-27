@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Class 3 Slides: Single-Vertex Crease Patterns, 6.849 Fall 2012'
 uid: 7196e7c1-993c-a0b0-dfd1-8c84440ab471

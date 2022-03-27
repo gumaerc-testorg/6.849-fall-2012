@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Class 19 Slides: Polyhedron Refolding and Kinetic Sculpture, 6.849 Fall 2012'
 uid: 8992aa31-8d21-4ffd-5d42-a5aff247517c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Lecture 15 Slides: Polyhedron Unfolding I, 6.849 Fall 2010'
 uid: 2d9a270d-8745-9eb2-b0ac-bf5e21132a96

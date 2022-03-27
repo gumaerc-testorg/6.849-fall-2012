@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c288e3-7478-1e11-c25a-1bafab81fcbe
 resourcetype: Document
 title: Problem Set 3 Solutions, 6.849 Fall 2012
 uid: cb07741d-1a2b-4ec9-ce6b-363df3cf8fdb

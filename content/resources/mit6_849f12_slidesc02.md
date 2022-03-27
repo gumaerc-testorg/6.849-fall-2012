@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Class 2 Slides: Origami, Universality, and Simple Folds, 6.849 Fall 2012'
 uid: 08215ebe-04be-2f94-f8b1-7fbfdadf8b25

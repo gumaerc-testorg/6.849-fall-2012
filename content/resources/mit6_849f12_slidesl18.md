@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Lecture 18 Slides: Polyhedron Folding II, 6.849 Fall 2010'
 uid: 13c52a67-0e59-85fe-cf10-607ccc984176

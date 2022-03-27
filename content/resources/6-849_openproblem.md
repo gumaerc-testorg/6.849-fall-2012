@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Open-Problem Sessions and Collaboration
 parent_type: CourseSection
+parent_uid: c03eec62-c472-53f8-d010-100a83b91515
 resourcetype: Image
 title: 6-849_openProblem.jpg
 uid: 1d692570-e6dd-f2b6-bf17-e3197fb0e363

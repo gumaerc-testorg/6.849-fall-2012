@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Lecture 21 Slides: Protein Folding and Interlocked 3D Chains, 6.849 Fall 2010'
 uid: 6bd71dbb-b8d4-a708-fa7c-237895fa6ef9

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Class 7 Slides: Universal Hinge Patterns and NP-Hardness, 6.849 Fall 2012'
 uid: fd0dd91c-1a37-ff62-445d-3a013e12e292

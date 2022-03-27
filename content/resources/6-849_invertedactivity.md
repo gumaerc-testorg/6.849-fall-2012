@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Inverted Lecture Format in Fall 2012
 parent_type: CourseSection
+parent_uid: 900dce7a-e9bc-4dc7-f3b9-669174979d27
 resourcetype: Image
 title: 6-849_invertedActivity.jpg
 uid: 4cde516c-42ca-2ddd-14f5-ac3b08bb9ea0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
 resourcetype: Document
 title: 'Lecture 11 Slides: Rigidity Theory, 6.849 Fall 2010'
 uid: 05ab64f1-8d81-d396-5144-3d380c99e63b
