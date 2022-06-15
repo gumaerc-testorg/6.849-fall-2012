@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture reviews algorithms for testing flat-foldability for a 1D MV pattern and for single-vertex MV pattern. An exercise walks through determining local flat-foldability, and questions cover higher dimensions and motivations for flat-foldability.
 
 **Speaker:** Erik Demaine
+
+
+

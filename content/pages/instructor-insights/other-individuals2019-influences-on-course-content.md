@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the roles of other individuals
+  who helped shape the structure and content of the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ In a more unofficial sense, he always acts as a sounding board. I might pitch id
 Guest Lecturers
 ---------------
 
-![Guest lecturer with origami models.]({{< resource_file d8eb83d7-8c26-632a-0a35-67d3e84ea6e7 >}})
+{{< resource d8eb83d7-8c26-632a-0a35-67d3e84ea6e7 >}}
 
 Guest lecturer Tomohiro Tachi exhibiting several origami models during his talk about his area of research. Image courtesy of Erik Demaine and Tomohiro Tachi.
 

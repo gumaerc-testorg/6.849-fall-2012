@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture introduces the hyperboloic paraboloid, hyparhedra, and the circular pleat. Topics include triangulated folding of the hypar, how paper folds between creases, and Gaussian curvature. Various proofs involving straight creases are given.
 
 **Speaker:** Erik Demaine
+
+
+

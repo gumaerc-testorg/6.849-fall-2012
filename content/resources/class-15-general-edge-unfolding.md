@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This class begins with defining handles and holes, and the Gauss-Bonnet Theorem applied to convex polyhedra. Algorithms for zipper unfolding, edge ununfoldable polyhedra, square-packing, band unfolding, and blooming of convex polyhedra are presented.
 
 **Speaker:** Erik Demaine
+
+
+

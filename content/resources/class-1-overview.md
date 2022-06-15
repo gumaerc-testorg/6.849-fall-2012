@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture introduces the inverted structure of the class, the topics covered in the course and its motivation. Examples of applications are provided, along with types and charaterizations of geometric objects, and foldability and design questions.
 
 **Speaker:** Erik Demaine
+
+
+

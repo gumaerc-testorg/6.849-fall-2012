@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture addresses the mathematical approaches for solving the decision problem for folding polyhedra. A proof of Alexandrov's Theorem and later a constructive version of Alexandrov is presented. Gluing trees and rolling belts are introduced.
 
 **Speaker:** Erik Demaine
+
+
+

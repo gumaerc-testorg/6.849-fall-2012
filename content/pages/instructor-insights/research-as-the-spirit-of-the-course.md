@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the research-driven focus of
+  the course and how aspects of the course support students in experiencing research.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ Another spirit of the course is that research is a lot of fun. In folding, there
 Problem Sets and Projects
 -------------------------
 
-![A 3x3 grid of images with fold and cut lines marked.]({{< resource_file cb4ba803-9d14-9433-e2a6-3015f0469ce3 >}})
+{{< resource cb4ba803-9d14-9433-e2a6-3015f0469ce3 >}}
 
 This puzzle, created by Prof. Demaine and Martin Demaine, was assigned as part of the first problem set. Puzzle courtesy of Erik Demaine and Martin Demaine. Photographs of MIT Stata Center, dome, and Simmons Hall © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 

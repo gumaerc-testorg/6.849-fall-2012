@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/640f0ba5c19afaef7f71c8c62d346e48_MIT6_849F12_slidesL05.pdf
+file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/640f0ba5c19afaef7f71c8c62d346e48_MIT6_849F12_slidesL05.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

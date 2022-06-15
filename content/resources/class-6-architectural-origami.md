@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with a folding exercise and demonstration involving Origamizer. A high-level overview of the mathematical constraints for Freeform and Rigid software are presented, followed by  examples of origami robots and current open problems.
 
 **Speaker:** Erik Demaine
+
+
+

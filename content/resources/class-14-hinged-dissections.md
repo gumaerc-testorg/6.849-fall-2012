@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This class focuses on hinged dissections. Examples of hinged dissections and several built, reconfigurable applications are offered Pseudopolynomials, triangulation, and 3D dissections are then discussed.
 
 **Speaker:** Erik Demaine
+
+
+

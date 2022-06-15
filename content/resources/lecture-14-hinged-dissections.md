@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture introduces adorned chains and slender chains. Proofs involving these definitions, as well as locked polygons and hinged dissections, are presented.
 
 **Speaker:** Erik Demaine
+
+
+

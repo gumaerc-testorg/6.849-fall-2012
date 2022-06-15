@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -33,3 +34,6 @@ video_metadata:
 **Description:** This class reviews covers topologically convex vertex-ununfoldable cases and unfolding for orthogonal polyhedra, including the approach of heavy-light decomposition. The class also reviews Cauchy's Rigidity Theorem.
 
 **Speaker:** Erik Demaine
+
+
+

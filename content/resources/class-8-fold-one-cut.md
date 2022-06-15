@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with a demonstration of software for fold and cut. Odd-degree vertices, and a comparison of skeleton method and tree method are discussed. Clarifications on the disk-packing method with a definition for the number of disks are given.
 
 **Speaker:** Erik Demaine
+
+
+

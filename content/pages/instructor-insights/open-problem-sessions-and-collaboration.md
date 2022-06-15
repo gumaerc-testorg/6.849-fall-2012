@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the open-problem sessions, and
+  also the benefits and challenges to offering such sessions to the students.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ _In this section, Prof. Demaine describes the open-problem sessions, and also th
 What are Open-Problem Sessions?
 -------------------------------
 
-![Professor Demaine in front of the chalkboard.]({{< resource_file 1d692570-e6dd-f2b6-bf17-e3197fb0e363 >}})
+{{< resource 1d692570-e6dd-f2b6-bf17-e3197fb0e363 >}}
 
 Even in the first lecture video, several open problems were presented alongside an overview of the course.
 

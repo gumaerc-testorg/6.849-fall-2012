@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This class covers creases in context of smoothness and a proof from the lecture involving Taylor expansion. Algorithms for the numbers of folding operations necessary for an MV string are presented. The class ends with a hypar folding exercise.
 
 **Speaker:** Erik Demaine
+
+
+

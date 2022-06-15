@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture presents Origamizer, freeform origami, and rigid origami applied to architectural and three-dimensional design contexts. Geometric constraints, demonstration videos, and physical models are shown for each portion of the lecture.
 
 **Speaker:** Tomohiro Tachi
+
+
+

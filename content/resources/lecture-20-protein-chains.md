@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture focuses on the folding of the backbone chain of proteins in relation to fixed-angle linkages. Four problems types (span, flattening, flat-state connectivity, locked) are presented, followed by the canonicalization of a producible chain.
 
 **Speaker:** Erik Demaine
+
+
+

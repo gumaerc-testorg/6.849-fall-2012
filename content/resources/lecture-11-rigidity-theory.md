@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with a review of linkages and classifying graphs as generically rigid or flexible. Conditions for minimally generic rigid graphs are presented with degree-of-freedom analysis. Proofs of Henneberg and Laman characterizations are given.
 
 **Speaker:** Erik Demaine
+
+
+

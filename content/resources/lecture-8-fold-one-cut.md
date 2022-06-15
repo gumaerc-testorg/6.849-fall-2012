@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture presents the fold and cut problem, and both the straight skeleton method and disk-packing method. Simple fold and cut is then generalized for folding surface of polyhedra.
 
 **Speaker:** Erik Demaine
+
+
+

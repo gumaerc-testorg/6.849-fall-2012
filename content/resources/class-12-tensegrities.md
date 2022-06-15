@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This class covers several examples of tensegrity structures and in Freeform software. A question on linear programming's application to the motions and stresses is addressed.
 
 **Speaker:** Erik Demaine
+
+
+

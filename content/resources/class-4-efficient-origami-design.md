@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins with folded examples produced by TreeMaker and Origamizer. Explanation of the triangulation algorithm, checkerboard folding, the Lang Universal Molecule, and Origamizer tucking molecules are offered.
 
 **Speaker:** Erik Demaine
+
+
+

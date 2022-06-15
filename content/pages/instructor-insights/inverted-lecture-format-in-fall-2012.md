@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine explains the changes to 6.849 when he
+  taught the course in the inverted lecture format in Fall 2012.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -20,7 +22,7 @@ There were two factors that led me to exploring the inverted lecture format. The
 Converting 6.849 to a New Format
 --------------------------------
 
-![Students folding and connecting several paper forms.]({{< resource_file 4cde516c-42ca-2ddd-14f5-ac3b08bb9ea0 >}})
+{{< resource 4cde516c-42ca-2ddd-14f5-ac3b08bb9ea0 >}}
 
 Students participating in a group folding activity during class.
 

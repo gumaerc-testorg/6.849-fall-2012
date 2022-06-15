@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture begins by defining folding motion by a series of folded state, linkages, graphs, and configuration space. A proof of Kempe's universality theorem is presented along with Kempe's gadgets, and also the Weierstrass approximation theorem.
 
 **Speaker:** Erik Demaine
+
+
+

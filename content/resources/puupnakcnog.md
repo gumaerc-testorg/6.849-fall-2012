@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/589a33430d96b29e895579307dc35bfb_PuUPnAkcNog.srt
+file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/589a33430d96b29e895579307dc35bfb_PuUPnAkcNog.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

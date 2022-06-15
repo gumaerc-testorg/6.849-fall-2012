@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class and Lecture Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture continues to discuss the tree method and characterizing a uniaxial base. Another algorithm, Origamizer, is presented with introductory examples of folding a cube, checkerboard, and arbitrary polyhedra.
 
 **Speaker:** Erik Demaine
+
+
+
