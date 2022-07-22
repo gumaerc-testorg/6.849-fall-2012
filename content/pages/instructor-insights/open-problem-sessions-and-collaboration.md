@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the open-problem sessions, and
+  also the benefits and challenges to offering such sessions to the students.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 60b2c196-be77-e326-a65c-ead778a4815e
 title: Open-Problem Sessions and Collaboration
 uid: c03eec62-c472-53f8-d010-100a83b91515
@@ -12,7 +17,7 @@ _In this section, Prof. Demaine describes the open-problem sessions, and also th
 What are Open-Problem Sessions?
 -------------------------------
 
-![Professor Demaine in front of the chalkboard.]({{< resource_file 1d692570-e6dd-f2b6-bf17-e3197fb0e363 >}})
+{{< resource 1d692570-e6dd-f2b6-bf17-e3197fb0e363 >}}
 
 Even in the first lecture video, several open problems were presented alongside an overview of the course.
 

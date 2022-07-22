@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine shares his thoughts about sharing course
+  materials and describes the ways in which his course materials, available on OCW,
+  have been used.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 60b2c196-be77-e326-a65c-ead778a4815e
 title: Sharing Course Materials
 uid: 3dfe796a-5fd4-a592-24eb-7f65c19a8114
