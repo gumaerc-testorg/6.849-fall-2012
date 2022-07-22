@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture introduces more examples of origami models that use a variety of techniques and media . At the end of the session, the class participates in a folding exercise that uses business cards to make modular cubes.
 
 **Speaker:** Erik Demaine
-
-
 

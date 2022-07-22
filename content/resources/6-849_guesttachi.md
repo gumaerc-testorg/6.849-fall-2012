@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of Tomohiro Tachi.
   image-alt: Guest lecturer with origami models.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Other Individuals\u2019 Influences on Course Content"
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 6-849_guestTachi.jpg
 uid: d8eb83d7-8c26-632a-0a35-67d3e84ea6e7
 ---
 Guest lecturer Tomohiro Tachi and his origami models
-

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins with a problem involving unfolding and refolding. Examples of smooth foldings and unfoldings are given, followed by a problem involving the wrapping of a sphere and a proof that the wrappings are contractive.
 
 **Speaker:** Erik Demaine
-
-
 

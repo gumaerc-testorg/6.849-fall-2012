@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins with definitions of origami terminology and a demonstration of mountain-valley folding. Turn, hide, and color reversal gadgets, and proofs for folding any shape, Hamiltonian refinement, and foldability with 1D flat folding are presented.
 
 **Speaker:** Erik Demaine
-
-
 

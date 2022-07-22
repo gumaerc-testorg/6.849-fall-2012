@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This class first covers research findings involving common unfoldings of boxes. Several examples of kinetic sculptures and machines are shown, including Theo Jansen's Strandbeests and Arthur Ganson's works at the MIT Museum.
 
 **Speaker:** Erik Demaine
-
-
 

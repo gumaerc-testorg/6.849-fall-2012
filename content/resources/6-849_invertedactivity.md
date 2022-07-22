@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of Erik Demaine.
   image-alt: Students folding and connecting several paper forms.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Inverted Lecture Format in Fall 2012
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 6-849_invertedActivity.jpg
 uid: 4cde516c-42ca-2ddd-14f5-ac3b08bb9ea0
 ---
 Students participating in a folding activity
-

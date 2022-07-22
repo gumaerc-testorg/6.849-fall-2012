@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 1 Slides: Course Overview, 6.849 Fall 2012'
 uid: 3901d9bb-3530-ef39-eaff-7a1bddc89a3f
 ---
 This file contains information regarding class 1 slides.
-

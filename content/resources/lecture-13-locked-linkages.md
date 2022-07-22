@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture explores algorithms for unfolding 2D chains including ODE, pointed pseudotriangulations, and the energy method. Locking rules are then extrapolated to address Spherical Carpenter's Rule, infinitesimally locked linkages, and locked 3D chains.
 
 **Speaker:** Erik Demaine
-
-
 

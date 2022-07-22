@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 4 Slides: Efficient Origami Design, 6.849 Fall 2012'
 uid: fd9224ca-b4d1-8594-c442-56326b438748
 ---
 This file contains information regarding class 4 slides.
-

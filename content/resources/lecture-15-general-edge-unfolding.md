@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins with describing polyhedron unfolding for convex and nonconvex polygons. Algorithms for shortest path solutions and unfoldings are presented along with how to determine whether an edge unfolding exists.
 
 **Speaker:** Erik Demaine
-
-
 

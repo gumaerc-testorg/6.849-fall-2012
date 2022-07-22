@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This class presents open problems involving holes, sliding linkages, and generalizations of Kempe. A proof for the semi-algebraic sets for Kempe is presented and various origami axioms are given. The class ends with a continuation of hypar folding.
 
 **Speaker:** Erik Demaine
-
-
 

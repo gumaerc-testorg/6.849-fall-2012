@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This class reviews Carpenter's Rule and properties of pseudotriangulation. Various proofs are presented, which cover topics including non-zero stresses, linear and equilateral locked trees, and unfolding of 4D chains.
 
 **Speaker:** Erik Demaine
-
-
 

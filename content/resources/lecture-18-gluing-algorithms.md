@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins how to construct a gluing tree. Combinatorial bounds and algorithms are proved for gluing results, which include the general case, edge-to-edge, and bounded sharpness. The different gluings for the cross are also shown.
 
 **Speaker:** Erik Demaine
-
-
 

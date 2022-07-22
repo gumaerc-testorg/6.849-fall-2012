@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 9 Slides: Pleat Folding, 6.849 Fall 2010'
 uid: 13be951b-a9e0-fefc-53e3-1c3eee6e4220
 ---
 This resource contains information regarding Lecture 9 Slides, Fall 2010.
-

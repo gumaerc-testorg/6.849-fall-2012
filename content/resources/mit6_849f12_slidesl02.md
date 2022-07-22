@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 2 Slides: Origami, Universality, and Simple Folds, 6.849 Fall 20
 uid: 8c0a1b4e-aa7c-eb04-936f-6fb47792556e
 ---
 This resource contains information regarding Lecture 2 Slides, Fall 2010.
-

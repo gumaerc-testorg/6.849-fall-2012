@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 10 Slides: Folding Motions, Linkages, and Geometric Construction
 uid: ba79ab1b-506d-beaf-3316-f01344e29581
 ---
 This file contains information regarding lecture 10 slides.
-

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This class introduces recent research on flattening fixed-angle chains and addresses flipping of pockets in a polygon. Flaws and omissions in proofs on a bounding number of flips are presented along with a correct version of Bing and Kazarinoff's proof.
 
 **Speaker:** Erik Demaine
-
-
 

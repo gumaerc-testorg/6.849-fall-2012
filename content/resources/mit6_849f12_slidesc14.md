@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 14 Slides: Hinged Dissections, 6.849 Fall 2012'
 uid: b062a325-2f75-69d7-e3a0-fc3759254384
 ---
 This file contains information regarding class 14 slides.
-

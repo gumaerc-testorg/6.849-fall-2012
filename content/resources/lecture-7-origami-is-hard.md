@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture introduces universal hinge patterns with the cube and maze gadget. NP-hardness problems involving partition and satisfiability are presented with examples of simple folds, global flat foldability, and disk packing.
 
 **Speaker:** Erik Demaine
-
-
 

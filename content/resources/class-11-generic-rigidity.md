@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This class covers how the pebble algorithm works with first a proof of the 2k property, and then 2k-3. Generic rigidity and the running time of the algorithm is discussed, and software simulations running the algorithm are shown.
 
 **Speaker:** Erik Demaine
-
-
 

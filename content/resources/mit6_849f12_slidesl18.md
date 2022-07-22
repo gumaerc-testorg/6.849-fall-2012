@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 18 Slides: Polyhedron Folding II, 6.849 Fall 2010'
 uid: 13c52a67-0e59-85fe-cf10-607ccc984176
 ---
 This file contains information regarding lecture 18 slides.
-

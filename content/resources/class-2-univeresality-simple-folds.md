@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins with a folding exercise of numerical digits. Questions discussed cover strip folding in the context of efficiency, defining pseudopolynomial, seam placement, and clarifications about simple folds and flat-foldability.
 
 **Speaker:** Erik Demaine
-
-
 

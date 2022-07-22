@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 19 Slides: Polyhedron Refolding and Kinetic Sculpture, 6.849 Fal
 uid: 77c84b6e-be9c-fc01-1837-a9ab2bdfd855
 ---
 This file contains information regarding lecture 19 slides.
-

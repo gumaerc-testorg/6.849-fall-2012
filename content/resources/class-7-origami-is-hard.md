@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture begins with several examples of box-pleating and maze-folding. Clarifications on NP-hardness are provided with a walkthrough of a proof. Additional folding gadgets are introduced and non-simple folds are addresed.
 
 **Speaker:** Erik Demaine
-
-
 

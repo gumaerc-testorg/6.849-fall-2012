@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture continues with open problems involving general unfoldings of polyhedra and proof of vertex unfolding using construction of facet-paths. Approaches for unfolding orthogonal polyhedra, grid unfolding, and folding convex polyhedra are presented.
 
 **Speaker:** Erik Demaine
-
-
 

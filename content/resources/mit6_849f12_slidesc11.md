@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 11 Slides: Rigidity Theory, 6.849 Fall 2012'
 uid: 9a92342b-c144-7827-f862-7055a256dc1d
 ---
 This file contains information regarding class 11 slides.
-

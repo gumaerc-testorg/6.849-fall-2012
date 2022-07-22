@@ -5,6 +5,7 @@ file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 21 Slides: Protein Folding and Interlocked 3D Chains, 6.849 Fall
 uid: 6bd71dbb-b8d4-a708-fa7c-237895fa6ef9
 ---
 This file contains information regarding lecture 21 slides.
-

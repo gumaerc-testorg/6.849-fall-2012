@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of Erik Demaine.
   image-alt: Professor in front of blackboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Open-Problem Sessions and Collaboration
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 6-849_openProblem.jpg
 uid: 1d692570-e6dd-f2b6-bf17-e3197fb0e363
 ---
 Prof. Demaine posing open problems
-
