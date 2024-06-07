@@ -2,6 +2,7 @@
 content_type: resource
 description: Students participating in a folding activity
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/4cde516c42ca2ddd14f5ac3b08bb9ea0_6-849_invertedActivity.JPG
+file_size: 138163
 file_type: image/jpeg
 image_metadata:
   caption: Students participating in a group folding activity during class.
