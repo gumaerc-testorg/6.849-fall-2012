@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/a239fef68f6c23f9e7aa100b313f501c_yIjTCMlIgpU.pdf
+file_size: 80660
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
