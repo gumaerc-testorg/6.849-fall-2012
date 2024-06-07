@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding class 10 slides.
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/1d1f5131e9e00f66f08de017bc792b4a_MIT6_849F12_slidesC10.pdf
+file_size: 1069162
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
