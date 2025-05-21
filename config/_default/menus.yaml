@@ -48,6 +48,16 @@ leftnav:
   pageRef: /pages/instructor-insights/sharing-course-materials
   parent: 60b2c196-be77-e326-a65c-ead778a4815e
   weight: 50
+- identifier: 32fd35c0-fa55-4008-a06c-53a76d3614d2
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  parent: a370594e-3650-963e-bb62-70f5dc3b68ed
+  weight: 10
+- identifier: 37055482-7173-46e7-8086-66e81c95f4f9
+  name: Class Videos
+  pageRef: /video_galleries/class-videos
+  parent: a370594e-3650-963e-bb62-70f5dc3b68ed
+  weight: 20
 - identifier: 8fbd5c92-898c-687f-adc5-2d2f99f1ee80
   name: Sample Project Ideas
   pageRef: /pages/final-project/sample-project-ideas
