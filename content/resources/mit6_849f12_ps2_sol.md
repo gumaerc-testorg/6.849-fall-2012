@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Solutions to Problem Set
   2.
-file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/48887fd9952e6fffb70a0e888af1d4a5_MIT6_849F12_ps2_sol.pdf
+file: /ol-ocw-studio-app/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/48887fd9952e6fffb70a0e888af1d4a5_MIT6_849F12_ps2_sol.pdf
 file_size: 153651
 file_type: application/pdf
 learning_resource_types:
