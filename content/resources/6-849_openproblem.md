@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Prof. Demaine posing open problems
-file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/1d692570e6ddf2b6bf17e3197fb0e363_6-849_openProblem.JPG
+file: /ol-ocw-studio-app/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/1d692570e6ddf2b6bf17e3197fb0e363_6-849_openProblem.JPG
 file_size: 167067
 file_type: image/jpeg
 image_metadata:
