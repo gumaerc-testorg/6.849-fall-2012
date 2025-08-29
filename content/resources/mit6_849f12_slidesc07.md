@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding class 7 slides.
-file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/fd0dd91c1a37ff62445d3a013e12e292_MIT6_849F12_slidesC07.pdf
+file: /ol-ocw-studio-app/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/fd0dd91c1a37ff62445d3a013e12e292_MIT6_849F12_slidesC07.pdf
 file_size: 2164790
 file_type: application/pdf
 learning_resource_types:

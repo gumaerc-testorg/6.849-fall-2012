@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 11 slides.
-file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/05ab64f18d81d39651443d380c99e63b_MIT6_849F12_slidesL11.pdf
+file: /ol-ocw-studio-app/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/05ab64f18d81d39651443d380c99e63b_MIT6_849F12_slidesL11.pdf
 file_size: 1313572
 file_type: application/pdf
 learning_resource_types:
