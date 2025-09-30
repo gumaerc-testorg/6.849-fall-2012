@@ -18,7 +18,8 @@ related_resources_text: 'The following videos were played at the end of the clas
   )
 
 
-  [http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D](http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D)'
+  {{% resource_link "dfc62bdb-e23b-4c9c-8e07-0c01c6ac7321" "http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D"
+  %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
