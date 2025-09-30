@@ -19,14 +19,14 @@ Open Problem Sessions (Optional): 1 session / week, 2 hours / session
 Whenever you have a physical object to be reconfigured, geometric folding often comes into play. This course is about algorithms for analyzing and designing such folds. Motivating applications include:
 
 - Automated design of new and complex origami, such as
-    - [Freeform Origami, Origamizer, and Rigid Origami Simulator](http://www.tsg.ne.jp/TT/software/index.html) by Tomohiro Tachi
-    - [TreeMaker](https://langorigami.com/article/treemaker/) by Robert J. Lang
-- Transforming robots by [self-folding sheets](http://erikdemaine.org/papers/Matter_PNAS/) or chains
-- How to [fold robotic arms without collision](http://erikdemaine.org/linkage/animations/)
+    - {{% resource_link "ad2a837a-2564-4fe1-a739-e2e616caa258" "Freeform Origami, Origamizer, and Rigid Origami Simulator" %}} by Tomohiro Tachi
+    - {{% resource_link "ad689fea-ea8e-49c2-8e14-83edfd846139" "TreeMaker" %}} by Robert J. Lang
+- Transforming robots by {{% resource_link "792c6f91-bd67-4a45-b34b-044cb91a58eb" "self-folding sheets" %}} or chains
+- How to {{% resource_link "276c6714-37f5-4084-9088-7637c6f1c304" "fold robotic arms without collision" %}}
 - How to bend sheet metal into desired 3D shapes, such as
-    - [Ununfoldable polyhedra with convex faces](http://erikdemaine.org/papers/Ununfoldable/)
-    - [Orthostacks](http://erikdemaine.org/papers/Orthoballs_IJCGA/)
-- Understanding how [proteins fold](http://erikdemaine.org/papers/ProteinMachine_Algorithmica/)
+    - {{% resource_link "711fd40e-82ab-42ec-83d1-963a1e6a4be9" "Ununfoldable polyhedra with convex faces" %}}
+    - {{% resource_link "f91d4f36-6c26-42fa-9fea-6a4cde694f87" "Orthostacks" %}}
+- Understanding how {{% resource_link "a1523577-68b5-4b06-803b-fd3755658be0" "proteins fold" %}}
 
 Major progress has been made in recent years in many of these directions, thanks to a growing understanding of the mathematics and algorithms underlying folding. Nonetheless, many fundamental questions remain tantalizingly unsolved. This course covers the state-of-the-art in folding research, including a variety of open problems, enabling the student to do research and advance the field.
 
@@ -49,17 +49,17 @@ Many folding problems have applications in areas including manufacturing, roboti
 
 ## Prerequisites
 
-[*6.046J/18.410J Design and Analysis of Algorithms*](https://ocw-studio.odl.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005), or equivalent background in discrete mathematics and algorithms. Alternatively, permission from the instructor.
+{{% resource_link "3a359f0a-ef71-4927-8424-077ab181c11d" "*6.046J/18.410J Design and Analysis of Algorithms*" %}}, or equivalent background in discrete mathematics and algorithms. Alternatively, permission from the instructor.
 
 ## Textbooks
 
 ### Required
 
-[Demaine, Erik](http://erikdemaine.org/), and [Joseph O'Rourke](http://www.cs.smith.edu/~orourke/). *Geometric Folding Algorithms: Linkages, Origami, Polyhedra*. Cambridge University Press, 2007. ISBN: 9780521857574.
+{{% resource_link "522b59d2-f735-4726-a0d7-529e7db71421" "Demaine, Erik" %}}, and {{% resource_link "6c8c7673-e145-46be-b7e6-d23854fc5ead" "Joseph O'Rourke" %}}. *Geometric Folding Algorithms: Linkages, Origami, Polyhedra*. Cambridge University Press, 2007. ISBN: 9780521857574.
 
 ### Recommended
 
-[Lang, Robert](https://langorigami.com/). *Origami Design Secrets: Mathematical Methods for an Ancient Art*. 2nd ed. A K Peters / CRC Press, 2011. ISBN: 9781568814360. \[Preview with [Google Books](http://books.google.com/books?id=6bhEatkCuWgC&pg=PAfrontcover)\]
+{{% resource_link "3c7748b6-6a61-44b5-8b9b-fdbffc0a4c9e" "Lang, Robert" %}}. *Origami Design Secrets: Mathematical Methods for an Ancient Art*. 2nd ed. A K Peters / CRC Press, 2011. ISBN: 9781568814360. \[Preview with {{% resource_link "46ab7aee-afc0-4f4b-b5b5-6f83bb794ca6" "Google Books" %}}\]
 
 ## Grading
 
