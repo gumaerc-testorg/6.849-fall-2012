@@ -670,7 +670,7 @@ Video of Class 17
 {{< tdopen >}}
 
 
-_Watch origami documentary_ [_Between The Folds_](http://www.greenfusefilms.com/).
+_Watch origami documentary_ {{% resource_link "5b695078-22ad-4ad7-9769-2675de9a5d28" "_Between The Folds_" %}}.
 
 {{% resource_link 6323d977-898a-6c26-5483-4260b7449509 "Detailed Descriptions of Lecture 18 and Class 18 (PDF)" %}}
 
